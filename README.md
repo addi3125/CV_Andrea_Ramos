@@ -5,7 +5,7 @@
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [sarmientoandrea982@gmail.com](mailto:sarmientoandrea982@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
