@@ -5,7 +5,7 @@
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
+- **Teléfono:** +57 123 456 7893
 - **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
